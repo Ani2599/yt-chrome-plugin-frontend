@@ -1,5 +1,3 @@
-
-```markdown
 # YT Chrome Plugin Frontend
 
 This repository contains the frontend code for a **YouTube Chrome Plugin** that integrates with a sentiment analysis backend to provide sentiment ratings for YouTube comments.
@@ -28,6 +26,12 @@ Once the extension is installed, visit a YouTube video, and the extension will d
 ## Contributing
 
 Feel free to fork the repository and submit pull requests. Ensure to follow best practices in coding and documentation.
+
+## License
+
+This project is licensed under the MIT License
+
+
 
 ## License
 
